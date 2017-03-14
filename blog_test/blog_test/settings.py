@@ -43,6 +43,8 @@ INSTALLED_APPS = [
     
     # THIRD PARTY APPS
     'rest_framework',
+    'rest_framework.authtoken',
+    'rest_auth',
 ]
 
 MIDDLEWARE = [
